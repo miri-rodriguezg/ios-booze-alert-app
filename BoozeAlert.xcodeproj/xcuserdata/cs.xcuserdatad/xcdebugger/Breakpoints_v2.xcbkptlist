@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoozeAlert/ViewController2.swift"
+            timestampString = "564953668.004194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoozeAlert.ViewController2.units.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BoozeAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cs/Documents/BoozeAlert/BoozeAlert/ViewController2.swift"
+                  timestampString = "564953616.147473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoozeAlert.ViewController2.units.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BoozeAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cs/Documents/BoozeAlert/BoozeAlert/ViewController2.swift"
+                  timestampString = "564953616.150851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoozeAlert.ViewController2.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BoozeAlert.ViewController2"
+                  moduleName = "BoozeAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cs/Documents/BoozeAlert/BoozeAlert/ViewController2.swift"
+                  timestampString = "564953616.153061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "801">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoozeAlert.ViewController2.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BoozeAlert.ViewController2&gt;"
+                  moduleName = "BoozeAlert"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cs/Documents/BoozeAlert/BoozeAlert/ViewController2.swift"
+                  timestampString = "564953616.155128"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
